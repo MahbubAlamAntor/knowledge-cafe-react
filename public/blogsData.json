@@ -1,18 +1,19 @@
 [
     {
       "author_id": "auth_001",
-      "cover": "https://example.com/cover1.jpg",
-      "title": "introduction to es6",
+      "cover": "https://i.ibb.co.com/xHFZd6C/boy1.png",
+      "title": "A comprehensive guide to understanding es6 for beginners in 2024.Last year",
       "author_img": "https://i.ibb.co.com/ySBr4nh/online-blog.jpg",
       "author_name": "john doe",
       "posted_date": "2024-01-15",
       "reading_time": 10,
       "hashtags": ["beginners", "es6"]
     },
+    
     {
       "author_id": "auth_002",
-      "cover": "https://example.com/cover2.jpg",
-      "title": "es6 essentials for newbies",
+      "cover": "https://i.ibb.co.com/1MS0yK8/boy2.jpg",
+      "title": "Learn essential es6 features every javascript beginner should know today, in last year",
       "author_img": "https://i.ibb.co.com/b7zKWqF/39879138-8767132.jpg",
       "author_name": "jane smith",
       "posted_date": "2024-02-10",
@@ -21,8 +22,8 @@
     },
     {
       "author_id": "auth_003",
-      "cover": "https://example.com/cover3.jpg",
-      "title": "mastering es6 syntax",
+      "cover": "https://i.ibb.co.com/fxRWMcP/girl1.jpg",
+      "title": "Understanding es6: key concepts and syntax for new javascript developers, in last year",
       "author_img": "https://i.ibb.co.com/QCCJgsy/technology-communication-icons-symbols-concept.jpg",
       "author_name": "alice brown",
       "posted_date": "2024-03-05",
@@ -31,8 +32,8 @@
     },
     {
       "author_id": "auth_004",
-      "cover": "https://example.com/cover4.jpg",
-      "title": "es6 features explained",
+      "cover": "https://i.ibb.co.com/gJmQ1w8/girl2.jpg",
+      "title": "How to effectively learn es6 for web development beginners in javascript, in last year",
       "author_img": "https://i.ibb.co.com/NNpZdvz/aerial-view-man-using-computer-laptop-wooden-table.jpg",
       "author_name": "bob white",
       "posted_date": "2024-04-12",
@@ -41,8 +42,8 @@
     },
     {
       "author_id": "auth_005",
-      "cover": "https://example.com/cover5.jpg",
-      "title": "getting started with es6",
+      "cover": "https://i.ibb.co.com/1MS0yK8/boy2.jpg",
+      "title": "Getting started with modern es6 javascript: a beginner’s ultimate guide, in last year",
       "author_img": "https://i.ibb.co.com/my5hwJQ/teamwork-making-online-blog.jpg",
       "author_name": "charlie green",
       "posted_date": "2024-05-20",
